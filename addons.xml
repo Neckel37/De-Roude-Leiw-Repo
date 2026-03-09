@@ -8,15 +8,15 @@
 
     <extension point="xbmc.addon.repository">
         <info compressed="false">
-            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw/master/addons.xml
+            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw-Repo/master/addons.xml
         </info>
 
         <checksum>
-            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw/master/addons.xml.md5
+            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw-Repo/master/addons.xml.md5
         </checksum>
 
         <datadir zip="true">
-            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw/master/zips/
+            https://raw.githubusercontent.com/Neckel37/De-Roude-Leiw-Repo/master/zips/
         </datadir>
     </extension>
 
